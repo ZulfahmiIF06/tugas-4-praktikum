@@ -1,0 +1,7 @@
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\bin\Debug\tugas praaktikum4.exe.config
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\bin\Debug\tugas praaktikum4.exe
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\bin\Debug\tugas praaktikum4.pdb
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\obj\Debug\tugas praaktikum4.csproj.AssemblyReference.cache
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\obj\Debug\tugas praaktikum4.csproj.CoreCompileInputs.cache
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\obj\Debug\tugas praaktikum4.exe
+D:\tugas\project segitiga\tugas praaktikum4\tugas praaktikum4\obj\Debug\tugas praaktikum4.pdb
